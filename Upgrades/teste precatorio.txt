@@ -1,0 +1,31 @@
+Precatório
+
+Orçamento
+
+data protocolo
+
+Exequente
+
+Executado
+
+data do calculo
+
+principal homologado
+
+juros homologado
+
+Selic homologado e %
+total homologado
+
+Honorários Contratuais (quantos adv./nome/CNPJ-CPF/Percentual/Sobre o bruto?)
+Honorários sucumbenciais (quantos adv./nome/CNPJ-CPF/Percentual/Sobre o bruto?)
+
+Beneficiário:
+Cedeu? (nome/quantos %)
+Herdeiros? (quantos H./nom/Percentual)
+Cedeu? (nome/quantos %)
+
+Imposto de Renda (RRA)
+cálculo que não tem RRA, como no caso de danos morais e materiais, poderia ter a caixinha " sim ou não" no RRA
+
+Previdência

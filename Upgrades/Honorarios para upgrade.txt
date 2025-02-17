@@ -1,0 +1,11 @@
+H contratual:
+MENU!$C$29   ---- quantidade de h.contratual
+MENU!$D$31  ----- 1º adv (cpf/CNPJ)
+MENU!$C$31 --- 1ª adv nome
+MENU!$E$31 --- 1º adv %
+
+H sucumbencial:
+MENU!$C$40 --- quantidade de h.sucumbencial
+MENU!$D$42 --- 1º adv (cpf/CNPJ)
+MENU!$C$42 --- 1ª adv nome
+MENU!$E$42 --- 1º adv %
