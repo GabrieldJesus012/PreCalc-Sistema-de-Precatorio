@@ -1,0 +1,12 @@
+C:\Users\Gabriel\Downloads\PreCalc\PreCalc\PreCalc\bin\Debug\PreCalc.exe.config
+C:\Users\Gabriel\Downloads\PreCalc\PreCalc\PreCalc\bin\Debug\PreCalc.exe
+C:\Users\Gabriel\Downloads\PreCalc\PreCalc\PreCalc\bin\Debug\PreCalc.pdb
+C:\Users\Gabriel\Downloads\PreCalc\PreCalc\PreCalc\bin\Debug\PreCalc.xml
+C:\Users\Gabriel\Downloads\PreCalc\PreCalc\PreCalc\obj\Debug\PreCalc.vbproj.AssemblyReference.cache
+C:\Users\Gabriel\Downloads\PreCalc\PreCalc\PreCalc\obj\Debug\PreCalc.Form1.resources
+C:\Users\Gabriel\Downloads\PreCalc\PreCalc\PreCalc\obj\Debug\PreCalc.Resources.resources
+C:\Users\Gabriel\Downloads\PreCalc\PreCalc\PreCalc\obj\Debug\PreCalc.vbproj.GenerateResource.cache
+C:\Users\Gabriel\Downloads\PreCalc\PreCalc\PreCalc\obj\Debug\PreCalc.vbproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Downloads\PreCalc\PreCalc\PreCalc\obj\Debug\PreCalc.exe
+C:\Users\Gabriel\Downloads\PreCalc\PreCalc\PreCalc\obj\Debug\PreCalc.xml
+C:\Users\Gabriel\Downloads\PreCalc\PreCalc\PreCalc\obj\Debug\PreCalc.pdb
